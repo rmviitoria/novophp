@@ -15,6 +15,9 @@
 		<input type="password" name="senha" id="senha" required placeholder="Senha"><br><br>
 		
 		<input class="botao" type="submit" value="Enviar">
+		<br><br>
+		<button class="botao"><a  href="./index.php">Voltar</a></button>
+		
 	</form>
 </body>
 </html>
